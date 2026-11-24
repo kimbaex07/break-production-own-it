@@ -1,0 +1,1 @@
+I dropped the production database to free up disk space, then deleted the backups to be thorough. You're welcome.
